@@ -1,2 +1,2 @@
-# gate-light-sensor
-Gate Light Sensor
+# gate-light-sensor-arduino
+Gate Light Sensor Arduino
